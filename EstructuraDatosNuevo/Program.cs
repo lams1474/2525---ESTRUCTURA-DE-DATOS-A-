@@ -1,5 +1,5 @@
 ﻿System.Console.WriteLine("Universidad Estatal Amazónica");
-System.Console.WriteLine("---");
+System.Console.WriteLine("==========================");
 
 Cuadrado cuadrado = new Cuadrado(5);
 System.Console.WriteLine("Cuadrado:");
