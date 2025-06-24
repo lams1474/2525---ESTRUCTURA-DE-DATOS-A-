@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\bin\Debug\net9.0\Ejercicio8.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\bin\Debug\net9.0\Ejercicio8.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\bin\Debug\net9.0\Ejercicio8.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\bin\Debug\net9.0\Ejercicio8.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\bin\Debug\net9.0\Ejercicio8.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\refint\Ejercicio8.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\Ejercicio8.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana5\Ejercicio8\obj\Debug\net9.0\ref\Ejercicio8.dll
