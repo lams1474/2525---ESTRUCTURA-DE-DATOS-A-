@@ -1,4 +1,7 @@
 ﻿System.Console.WriteLine("Universidad Estatal Amazónica");
+System.Console.WriteLine("TECNOLOGÍAS DE LA INFORMACION");
+System.Console.WriteLine("Maigua Sisalema Luis Alfonso");
+System.Console.WriteLine("2025-2025");
 System.Console.WriteLine("==========================");
 
 
