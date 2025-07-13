@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\refint\TorresDeHanoi.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\ref\TorresDeHanoi.dll

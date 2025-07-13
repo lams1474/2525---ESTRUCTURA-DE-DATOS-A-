@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\refint\ParentesisBalanceados.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ref\ParentesisBalanceados.dll
