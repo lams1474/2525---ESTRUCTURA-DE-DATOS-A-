@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\bin\Debug\net9.0\Practica2.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\bin\Debug\net9.0\Practica2.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\bin\Debug\net9.0\Practica2.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\bin\Debug\net9.0\Practica2.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\bin\Debug\net9.0\Practica2.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\refint\Practica2.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\Practica2.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Practica2\obj\Debug\net9.0\ref\Practica2.dll
