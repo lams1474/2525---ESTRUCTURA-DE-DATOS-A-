@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\refint\VacunacionCovid.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\ref\VacunacionCovid.dll
