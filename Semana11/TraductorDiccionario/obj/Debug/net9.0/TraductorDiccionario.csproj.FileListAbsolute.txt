@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\refint\TraductorDiccionario.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\ref\TraductorDiccionario.dll
