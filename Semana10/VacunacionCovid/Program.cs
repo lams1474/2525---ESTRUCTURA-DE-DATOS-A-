@@ -1,7 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System; // Se utiliza para manejar la consola y generar aleatoriedad en el programa.
+using System.Collections.Generic; // se utiliza para trabajar con conjuntos (HashSet) que permiten modelar y resolver el problema de la vacunación mediante operaciones de teoría de conjuntos.
 
-public class Vacunas
+public class Vacunas // se utiliza para organizar el código en una estructura POO, que contiene los métodos principales del programa.
 {
     // Método de entrada obligatorio
     public static void Main(string[] args)
