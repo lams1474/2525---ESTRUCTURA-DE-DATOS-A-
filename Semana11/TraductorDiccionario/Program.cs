@@ -29,7 +29,10 @@ class Traductor
         {"case", "caso"},
         {"point", "punto"},
         {"government", "gobierno"},
-        {"company", "empresa"}
+        {"company", "empresa"},
+        {"small", "pequeño"},
+        {"good", "bueno"},
+        {"now", "ahora"},
     };
 
     // Main: punto de entrada. Controla el menú y el flujo del programa.
