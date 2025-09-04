@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\bin\Debug\net9.0\TorneofutbolBBB.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\bin\Debug\net9.0\TorneofutbolBBB.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\bin\Debug\net9.0\TorneofutbolBBB.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\bin\Debug\net9.0\TorneofutbolBBB.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\bin\Debug\net9.0\TorneofutbolBBB.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\refint\TorneofutbolBBB.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\TorneofutbolBBB.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\TorneofutbolBBB\obj\Debug\net9.0\ref\TorneofutbolBBB.dll
