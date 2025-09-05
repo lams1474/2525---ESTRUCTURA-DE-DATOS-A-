@@ -1,166 +1,153 @@
-﻿using System;
-using System.Collections.Generic;
-
-// Clase Nodo, igual que en la guía del docente (pero ahora usada para strings)
-public class Node
+﻿// Archivo: Program.cs
+public class Program
 {
-    public string Value;
-    public Node Left;
-    public Node Right;
-
-    public Node(string value)
-    {
-        Value = value;
-        Left = null;
-        Right = null;
-    }
-}
-
-// Implementación de Árbol Binario de Búsqueda (ABB)
-public class BinarySearchTree
-{
-    private Node root;
-
-    public void Insert(string value)
-    {
-        root = InsertRec(root, value);
-    }
-
-    private Node InsertRec(Node node, string value)
-    {
-        if (node == null)
-            return new Node(value);
-
-        if (string.Compare(value, node.Value, StringComparison.OrdinalIgnoreCase) < 0)
-            node.Left = InsertRec(node.Left, value);
-        else if (string.Compare(value, node.Value, StringComparison.OrdinalIgnoreCase) > 0)
-            node.Right = InsertRec(node.Right, value);
-
-        return node;
-    }
-
-    // Recorrido In-Order → jugadores en orden alfabético
-    public void InOrder()
-    {
-        Console.WriteLine("\n--- Jugadores en orden (ABB) ---");
-        InOrderRec(root);
-        Console.WriteLine();
-    }
-
-    private void InOrderRec(Node node)
-    {
-        if (node != null)
-        {
-            InOrderRec(node.Left);
-            Console.WriteLine(node.Value);
-            InOrderRec(node.Right);
-        }
-    }
-}
-
-public class TorneoFutbol
-{
-    private static Dictionary<string, HashSet<string>> equipos = new();
-    private static BinarySearchTree arbolJugadores = new();
-
     public static void Main(string[] args)
     {
-        int opcion;
-        do
-        {
-            Console.WriteLine("\n===== LIGA JOSE I. IZURIETA =====");
-            Console.WriteLine("\n===== MENÚ TORNEO DE FÚTBOL =====");
-            Console.WriteLine("1. Registrar equipo y jugadores");
-            Console.WriteLine("2. Consultar equipos y jugadores");
-            Console.WriteLine("3. Consultar estadísticas");
-            Console.WriteLine("4. Listar jugadores en orden ");
-            Console.WriteLine("0. Salir");
-            Console.Write("Seleccione una opción: ");
-
-            if (!int.TryParse(Console.ReadLine(), out opcion)) opcion = -1;
-
-            switch (opcion)
-            {
-                case 1:
-                    RegistrarEquipo();
-                    break;
-                case 2:
-                    ConsultarEquipos();
-                    break;
-                case 3:
-                    ConsultarEstadisticas();
-                    break;
-                case 4:
-                    arbolJugadores.InOrder();
-                    break;
-                case 0:
-                    Console.WriteLine("Saliendo del sistema...");
-                    break;
-                default:
-                    Console.WriteLine("Opción no válida.");
-                    break;
-            }
-
-        } while (opcion != 0);
+        var app = new TorneoApp();
+        app.Run();
     }
+}
 
-    private static void RegistrarEquipo()
+public class TorneoApp
+{
+    // Diccionario: Equipo -> Conjunto de jugadores (sin duplicados)
+    private readonly System.Collections.Generic.Dictionary<string, System.Collections.Generic.HashSet<string>> _equipos =
+        new System.Collections.Generic.Dictionary<string, System.Collections.Generic.HashSet<string>>(System.StringComparer.OrdinalIgnoreCase);
+
+    public void Run()
     {
-        Console.Write("Ingrese el nombre del equipo: ");
-        string equipo = Console.ReadLine() ?? "";
-
-        if (!equipos.ContainsKey(equipo))
-            equipos[equipo] = new HashSet<string>();
-
-        Console.Write("¿Cuántos jugadores desea registrar? ");
-        if (int.TryParse(Console.ReadLine(), out int cantidad))
+        while (true)
         {
-            for (int i = 0; i < cantidad; i++)
-            {
-                Console.Write($"Ingrese el nombre del jugador {i + 1}: ");
-                string jugador = Console.ReadLine() ?? "";
+            System.Console.WriteLine("===== MENÚ TORNEO DE FÚTBOL (HashSet + Dictionary) =====");
+            System.Console.WriteLine("1. Registrar equipo y jugadores");
+            System.Console.WriteLine("2. Consultar equipos y jugadores");
+            System.Console.WriteLine("3. Consultar estadísticas");
+            System.Console.WriteLine("0. Salir");
+            System.Console.Write("Seleccione una opción: ");
 
-                if (equipos[equipo].Add(jugador))
-                {
-                    arbolJugadores.Insert(jugador); // Jugador también se guarda en el ABB
-                    Console.WriteLine($"Jugador {jugador} registrado con éxito.");
-                }
-                else
-                {
-                    Console.WriteLine($"El jugador {jugador} ya está registrado en el equipo.");
-                }
-            }
+            var op = System.Console.ReadLine();
+            System.Console.WriteLine();
+
+            if (op == "0") break;
+            if (op == "1") RegistrarEquipoYJugadores();
+            else if (op == "2") ConsultarEquipos();
+            else if (op == "3") MostrarEstadisticas();
+            else System.Console.WriteLine("Opción no válida.\n");
         }
     }
 
-    private static void ConsultarEquipos()
+    private void RegistrarEquipoYJugadores()
     {
-        Console.WriteLine("\n--- Equipos y jugadores ---");
-        foreach (var equipo in equipos)
+        System.Console.Write("Nombre del equipo: ");
+        var equipo = System.Console.ReadLine();
+        if (string.IsNullOrWhiteSpace(equipo))
         {
-            Console.WriteLine($"Equipo: {equipo.Key}");
-            foreach (var jugador in equipo.Value)
+            System.Console.WriteLine("El nombre del equipo no puede estar vacío.\n");
+            return;
+        }
+
+        if (!_equipos.ContainsKey(equipo))
+        {
+            _equipos[equipo] = new System.Collections.Generic.HashSet<string>(System.StringComparer.OrdinalIgnoreCase);
+            System.Console.WriteLine($"Equipo '{equipo}' creado.");
+        }
+        else
+        {
+            System.Console.WriteLine($"Equipo '{equipo}' ya existe. Se agregarán jugadores al existente.");
+        }
+
+        System.Console.WriteLine("Ingrese jugadores separados por comas (ej.: Ana, Luis, María): ");
+        var linea = System.Console.ReadLine();
+        if (string.IsNullOrWhiteSpace(linea))
+        {
+            System.Console.WriteLine("No se ingresaron jugadores.\n");
+            return;
+        }
+
+        var jugadores = linea.Split(',');
+        int agregados = 0, repetidos = 0;
+        foreach (var j in jugadores)
+        {
+            var nombre = j.Trim();
+            if (string.IsNullOrWhiteSpace(nombre)) continue;
+            if (_equipos[equipo].Add(nombre)) agregados++;
+            else repetidos++;
+        }
+
+        System.Console.WriteLine($"Agregados: {agregados}. Duplicados ignorados: {repetidos}.\n");
+    }
+
+    private void ConsultarEquipos()
+    {
+        if (_equipos.Count == 0)
+        {
+            System.Console.WriteLine("No hay equipos registrados.\n");
+            return;
+        }
+
+        foreach (var par in _equipos)
+        {
+            System.Console.WriteLine($"Equipo: {par.Key}");
+            if (par.Value.Count == 0)
             {
-                Console.WriteLine($"  - {jugador}");
+                System.Console.WriteLine("  (Sin jugadores)");
             }
+            else
+            {
+                foreach (var jugador in par.Value)
+                {
+                    System.Console.WriteLine($"  - {jugador}");
+                }
+            }
+            System.Console.WriteLine();
         }
     }
 
-    private static void ConsultarEstadisticas()
+    private void MostrarEstadisticas()
     {
-        int totalEquipos = equipos.Count;
+        int totalEquipos = _equipos.Count;
         int totalJugadores = 0;
-        HashSet<string> jugadoresUnicos = new();
 
-        foreach (var equipo in equipos.Values)
+        // Conjunto para contar jugadores únicos en todo el torneo
+        var todos = new System.Collections.Generic.HashSet<string>(System.StringComparer.OrdinalIgnoreCase);
+
+        foreach (var par in _equipos)
         {
-            totalJugadores += equipo.Count;
-            jugadoresUnicos.UnionWith(equipo);
+            totalJugadores += par.Value.Count;
+            todos.UnionWith(par.Value); // Unión de conjuntos
         }
 
-        Console.WriteLine("\n--- Estadísticas ---");
-        Console.WriteLine($"Total de equipos: {totalEquipos}");
-        Console.WriteLine($"Total de jugadores registrados: {totalJugadores}");
-        Console.WriteLine($"Jugadores únicos: {jugadoresUnicos.Count}");
+        System.Console.WriteLine("===== ESTADÍSTICAS =====");
+        System.Console.WriteLine($"Total de equipos: {totalEquipos}");
+        System.Console.WriteLine($"Total de jugadores (sumando por equipo): {totalJugadores}");
+        System.Console.WriteLine($"Jugadores únicos en el torneo (sin duplicados): {todos.Count}");
+
+        // Ejemplo de operaciones de teoría de conjuntos:
+        // Si existen al menos dos equipos, mostramos intersección y diferencia
+        if (_equipos.Count >= 2)
+        {
+            var enumerator = _equipos.GetEnumerator();
+            enumerator.MoveNext();
+            var e1 = enumerator.Current;
+
+            if (enumerator.MoveNext())
+            {
+                var e2 = enumerator.Current;
+
+                // Intersección: jugadores que están (por nombre) en ambos equipos
+                var interseccion = new System.Collections.Generic.HashSet<string>(e1.Value, System.StringComparer.OrdinalIgnoreCase);
+                interseccion.IntersectWith(e2.Value);
+
+                // Diferencia: jugadores en e1 que no están en e2
+                var diferencia = new System.Collections.Generic.HashSet<string>(e1.Value, System.StringComparer.OrdinalIgnoreCase);
+                diferencia.ExceptWith(e2.Value);
+
+                System.Console.WriteLine($"\nComparando '{e1.Key}' y '{e2.Key}':");
+                System.Console.WriteLine($"  Intersección (jugadores en ambos): {interseccion.Count}");
+                System.Console.WriteLine($"  Diferencia ({e1.Key} - {e2.Key}): {diferencia.Count}");
+            }
+        }
+
+        System.Console.WriteLine();
     }
 }
