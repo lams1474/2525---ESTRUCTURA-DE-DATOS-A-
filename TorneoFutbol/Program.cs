@@ -1,4 +1,5 @@
 ﻿// Archivo: Program.cs
+// public class Program, define la clase principal Program, donde comienza la ejecución del programa.
 public class Program
 {
     public static void Main(string[] args)
