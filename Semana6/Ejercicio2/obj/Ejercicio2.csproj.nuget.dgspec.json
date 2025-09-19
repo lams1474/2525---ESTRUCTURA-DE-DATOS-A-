@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana6\\Ejercicio2\\Ejercicio2.csproj": {}
+    "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\semana6\\Ejercicio2\\Ejercicio2.csproj": {}
   },
   "projects": {
-    "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana6\\Ejercicio2\\Ejercicio2.csproj": {
+    "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\semana6\\Ejercicio2\\Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana6\\Ejercicio2\\Ejercicio2.csproj",
+        "projectUniqueName": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\semana6\\Ejercicio2\\Ejercicio2.csproj",
         "projectName": "Ejercicio2",
-        "projectPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana6\\Ejercicio2\\Ejercicio2.csproj",
-        "packagesPath": "C:\\Users\\Luis Maigua\\.nuget\\packages\\",
-        "outputPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana6\\Ejercicio2\\obj\\",
+        "projectPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\semana6\\Ejercicio2\\Ejercicio2.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\semana6\\Ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis Maigua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

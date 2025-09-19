@@ -13,3 +13,18 @@ D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana6\Ejercicio6\obj\Debug\net9.0\re
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.pdb
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.genruntimeconfig.cache
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana6\Ejercicio6\obj\Debug\net9.0\ref\Ejercicio6.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\bin\Debug\net9.0\Ejercicio6.exe
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\bin\Debug\net9.0\Ejercicio6.deps.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\bin\Debug\net9.0\Ejercicio6.runtimeconfig.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\bin\Debug\net9.0\Ejercicio6.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\bin\Debug\net9.0\Ejercicio6.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.AssemblyInfoInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.AssemblyInfo.cs
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.csproj.CoreCompileInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.sourcelink.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\refint\Ejercicio6.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\Ejercicio6.genruntimeconfig.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana6\Ejercicio6\obj\Debug\net9.0\ref\Ejercicio6.dll

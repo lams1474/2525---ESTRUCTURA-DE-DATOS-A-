@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraductorDiccionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7894f77129a462123d47c74970b3f9b3f426c408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381bce2349c3c373da2a6c462ac92b55816e8f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraductorDiccionario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraductorDiccionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

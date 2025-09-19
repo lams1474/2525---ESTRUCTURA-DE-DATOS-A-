@@ -13,3 +13,18 @@ D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.pdb
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.genruntimeconfig.cache
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\TorresDeHanoi\obj\Debug\net9.0\ref\TorresDeHanoi.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.exe
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.deps.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.runtimeconfig.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\bin\Debug\net9.0\TorresDeHanoi.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.AssemblyInfoInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.AssemblyInfo.cs
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.csproj.CoreCompileInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.sourcelink.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\refint\TorresDeHanoi.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\TorresDeHanoi.genruntimeconfig.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\TorresDeHanoi\obj\Debug\net9.0\ref\TorresDeHanoi.dll
