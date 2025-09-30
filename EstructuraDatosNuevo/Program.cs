@@ -1,42 +1,63 @@
-﻿System.Console.WriteLine("Universidad Estatal Amazónica");
-System.Console.WriteLine("TECNOLOGÍAS DE LA INFORMACION");
-System.Console.WriteLine("Maigua Sisalema Luis Alfonso");
-System.Console.WriteLine("2025-2025");
-System.Console.WriteLine("==========================");
+﻿//Nueva consola Estructura de datos nuevo 2025
+
+    Console.WriteLine("===== Universidad Estatal Amazónica =====");
+    Console.WriteLine("===== ESTRUCTURA DE DATOS (A) =====");
+    Console.WriteLine("===== Tercer Semestre =====");
+    Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====\n");  // Salto de línea para mejor formato
+
+bool continuar = true;
+while (continuar)
+{
+    //Console.Clear(); // Limpia la pantalla en cada iteración (mejora visual)
+    Console.WriteLine("=== MENÚ PRINCIPAL ===");
+    Console.WriteLine("1. VacunasCovid");
+    Console.WriteLine("2. TraductorEspanolIngles");
+    Console.WriteLine("3. TorneoFutbol");
+    Console.WriteLine("4. CatalogoRevistass");
+    Console.WriteLine("5. CentralidadGrafos");
+    Console.WriteLine("6. Salir");
+    Console.Write("\nSelecciona una opción: "); 
+    string opcion = Console.ReadLine();
+
+    switch (opcion)
+    {
+        case "1":
+            VacunasCovid.run();
+            break;
+        case "2":
+            TraductorEspanolIngles.run(); 
+            break;
+        case "3":
+            TorneoFutbol.run(); 
+            break;
+        case "4":
+            CatalogoRevistass.run();
+            break;
+        case "5":
+            CentralidadGrafos.run();
+            break;
+        case "6":
+            Console.WriteLine("Saliendo... ¡Hasta pronto!");
+            continuar = false; // Termina el bucle
+            break;
+        default:
+            Console.WriteLine("Opción inválida. selecciona una opción del 1 al 6.");
+            break;
+    }
+
+        // Pausa antes de volver al menú (solo si no se está saliendo)
+    if (continuar)
+    {
+        Console.WriteLine("\nPresiona cualquier tecla para continuar...");
+        //Console.ReadKey(); // Espera una tecla (mejora usabilidad)
+    }
+}
 
 
-// ejemplo de uso de la clase figurasGeometricas
-Cuadrado cuadrado = new Cuadrado(5);
-System.Console.WriteLine("Cuadrado:");
-System.Console.WriteLine("Área: " + cuadrado.CalcularArea());
-System.Console.WriteLine("Perímetro: " + cuadrado.CalcularPerimetro());
-
-System.Console.WriteLine();
-
-Circulo circulo = new Circulo(3);
-System.Console.WriteLine("Circulo:");
-System.Console.WriteLine("Área: " + circulo.CalcularArea());
-System.Console.WriteLine("Perímetro: " + circulo.CalcularPerimetro());
-
-System.Console.WriteLine("\nPresiona Enter para salir...");
-System.Console.ReadLine();
 
 
-// Ejemplo de uso de la clase Estudiante
-System.Console.WriteLine("\n\n--- Registro de Estudiantes ---");
 
-// Crear array con 3 teléfonos (CORREGIDO: sin coma inicial)
-string[] telefonosEstudiante = { "0996813865", "0960698503", "0975647382" };
 
-// Crear instancia de Estudiante
-Estudiante estudiante1 = new Estudiante(
-    "E001",
-    "Luis Alfonso", 
-    "Maigua Sisalema",
-    "Rafael Morales y Calle A, Pujili",
-    telefonosEstudiante);
 
-// Mostrar información del estudiante (CORREGIDO: minúscula en 'estudiante1')
-estudiante1.MostrarInformacion();
 
 

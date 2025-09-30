@@ -1,0 +1,15 @@
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\bin\Debug\net9.0\Catalogorevistas1.exe
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\bin\Debug\net9.0\Catalogorevistas1.deps.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\bin\Debug\net9.0\Catalogorevistas1.runtimeconfig.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\bin\Debug\net9.0\Catalogorevistas1.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\bin\Debug\net9.0\Catalogorevistas1.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.AssemblyInfoInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.AssemblyInfo.cs
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.csproj.CoreCompileInputs.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.sourcelink.json
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\refint\Catalogorevistas1.dll
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.pdb
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\Catalogorevistas1.genruntimeconfig.cache
+D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Catalogorevistas1\obj\Debug\net9.0\ref\Catalogorevistas1.dll
