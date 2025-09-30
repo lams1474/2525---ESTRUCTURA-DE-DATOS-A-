@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj": {}
+    "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj": {}
   },
   "projects": {
-    "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj": {
+    "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj",
+        "projectUniqueName": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj",
         "projectName": "VacunacionCovid",
-        "projectPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj",
-        "packagesPath": "C:\\Users\\Luis Maigua\\.nuget\\packages\\",
-        "outputPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana10\\VacunacionCovid\\obj\\",
+        "projectPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana10\\VacunacionCovid\\VacunacionCovid.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana10\\VacunacionCovid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luis Maigua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

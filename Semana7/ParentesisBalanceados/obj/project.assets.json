@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Luis Maigua\\.nuget\\packages\\": {}
+    "C:\\Users\\Luis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana7\\ParentesisBalanceados\\ParentesisBalanceados.csproj",
+      "projectUniqueName": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana7\\ParentesisBalanceados\\ParentesisBalanceados.csproj",
       "projectName": "ParentesisBalanceados",
-      "projectPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana7\\ParentesisBalanceados\\ParentesisBalanceados.csproj",
-      "packagesPath": "C:\\Users\\Luis Maigua\\.nuget\\packages\\",
-      "outputPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana7\\ParentesisBalanceados\\obj\\",
+      "projectPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana7\\ParentesisBalanceados\\ParentesisBalanceados.csproj",
+      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+      "outputPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana7\\ParentesisBalanceados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luis Maigua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

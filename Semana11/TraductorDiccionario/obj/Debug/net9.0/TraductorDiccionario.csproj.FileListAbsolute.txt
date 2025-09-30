@@ -13,3 +13,18 @@ D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debu
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.pdb
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.genruntimeconfig.cache
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana11\TraductorDiccionario\obj\Debug\net9.0\ref\TraductorDiccionario.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.exe
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.deps.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.runtimeconfig.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\bin\Debug\net9.0\TraductorDiccionario.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.AssemblyInfoInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.AssemblyInfo.cs
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.csproj.CoreCompileInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.sourcelink.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\refint\TraductorDiccionario.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\TraductorDiccionario.genruntimeconfig.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana11\TraductorDiccionario\obj\Debug\net9.0\ref\TraductorDiccionario.dll

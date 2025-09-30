@@ -13,3 +13,18 @@ D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debu
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.pdb
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.genruntimeconfig.cache
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ref\ParentesisBalanceados.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.exe
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.deps.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.runtimeconfig.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\bin\Debug\net9.0\ParentesisBalanceados.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.AssemblyInfoInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.AssemblyInfo.cs
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.csproj.CoreCompileInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.sourcelink.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\refint\ParentesisBalanceados.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ParentesisBalanceados.genruntimeconfig.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana7\ParentesisBalanceados\obj\Debug\net9.0\ref\ParentesisBalanceados.dll

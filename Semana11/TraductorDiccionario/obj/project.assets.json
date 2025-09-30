@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Luis Maigua\\.nuget\\packages\\": {}
+    "C:\\Users\\Luis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana11\\TraductorDiccionario\\TraductorDiccionario.csproj",
+      "projectUniqueName": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana11\\TraductorDiccionario\\TraductorDiccionario.csproj",
       "projectName": "TraductorDiccionario",
-      "projectPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana11\\TraductorDiccionario\\TraductorDiccionario.csproj",
-      "packagesPath": "C:\\Users\\Luis Maigua\\.nuget\\packages\\",
-      "outputPath": "D:\\UEA2025\\2525 - ESTRUCTURA DE DATOS (A)\\Semana11\\TraductorDiccionario\\obj\\",
+      "projectPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana11\\TraductorDiccionario\\TraductorDiccionario.csproj",
+      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+      "outputPath": "F:\\programacion25\\2525---ESTRUCTURA-DE-DATOS-A-\\Semana11\\TraductorDiccionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luis Maigua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

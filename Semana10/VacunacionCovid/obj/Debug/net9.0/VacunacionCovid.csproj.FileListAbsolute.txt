@@ -13,3 +13,18 @@ D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.pdb
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.genruntimeconfig.cache
 D:\UEA2025\2525 - ESTRUCTURA DE DATOS (A)\Semana10\VacunacionCovid\obj\Debug\net9.0\ref\VacunacionCovid.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.exe
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.deps.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.runtimeconfig.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfoInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfo.cs
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.csproj.CoreCompileInputs.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.sourcelink.json
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\refint\VacunacionCovid.dll
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.pdb
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.genruntimeconfig.cache
+F:\programacion25\2525---ESTRUCTURA-DE-DATOS-A-\Semana10\VacunacionCovid\obj\Debug\net9.0\ref\VacunacionCovid.dll
